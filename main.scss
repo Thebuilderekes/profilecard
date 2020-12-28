@@ -132,6 +132,48 @@ li span {
     font-size: 13px;
     padding-bottom: 30px;
     border-bottom: 1px solid rgb(228, 226, 226);
-
+}
+      .attribution {
+    margin-top: 20px;
+        text-align: center;
       }
+// /*------------------------------------------------ */
+// /* MEDIA QUERIES CODES                    */
+// /*------------------------------------------------*/
 
+// /* iphone 6/7/8 and galaxy s5 */
+// @media only screen and (min-width: 300px) and (max-width: 768px) and (-webkit-min-device-pixel-ratio: 2) {
+//     body {
+//           position: absolute;
+//             left: 50%;
+//             top: 40%;
+            
+
+//             transform: translate(-50%, -50%);
+            
+//     }
+  
+
+// .top-image {
+
+//     position: absolute;
+  
+    
+
+//     bottom: 40%;
+  
+  
+//   .back-image__top {
+  
+//     width: 70%;
+//     height: 50%;
+//     transform: rotate(30deg);
+//     opacity: 0.4;
+//     z-index: 0;
+  
+    
+    
+//   }
+  
+//   }
+// }
