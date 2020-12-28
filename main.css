@@ -40,7 +40,6 @@ body {
   height: 50%;
   -webkit-transform: rotate(40deg);
           transform: rotate(40deg);
-  opacity: 0.4;
   position: relative;
 }
 
